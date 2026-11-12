@@ -46,6 +46,11 @@ Display all edge-detected images for comparison.
 
 ---
 
+## Developed By:
+
+#### Name: Jeyaarikaran.P
+#### Register No.: 212224240064
+
 ## Output
 
 ### 1. Sobel Edge Detector
@@ -177,10 +182,6 @@ plt.show()
 
 ---
 
-## Developed By:
-
-#### Name: Jeyaarikaran.P
-#### Register No.: 212224240064
 
 
 
